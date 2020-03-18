@@ -18,6 +18,8 @@ main{
     padding-left: 50px;
     box-shadow: black;
     align-items: center;
+    /* align-self: center; */
+    /* vertical-align: middle; */
     
 }
 .cover{
@@ -51,6 +53,7 @@ main{
 .mrs{
     float: left;
     transform: rotate(90deg);
+    /* padding-bottom: 100px; */
 }
 #name{
     font-family: 'Ubuntu', sans-serif;
@@ -63,6 +66,7 @@ main{
     float: left;
     padding-top: 40px;
     padding-left: 20px;
+    /* padding-right: 150px; */
     font-size: 29px;
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
